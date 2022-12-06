@@ -1,6 +1,9 @@
-- Hi, I’m @MikeUchmanowicz
-- I’m interested in Java (Springboot), Python (Django, Machine Learning)
-- I’m currently a Senior at Grand Canyon University 
+Hi, I’m @MikeUchmanowicz  
+I’m interested in Java (Springboot), Python (Django, Machine Learning)   
+I’m currently a Senior at Grand Canyon University   
+
+Email: Mike.Uchmanowicz@gmail.com  
+LinkedIn: [Michal Uchmanowicz](https://www.linkedin.com/in/michal-uchmanowicz/)
 
 <!---
 MikeUchmanowicz/MikeUchmanowicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
