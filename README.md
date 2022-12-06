@@ -1,4 +1,4 @@
-Hi, I’m Mike Uchmanowicz, I like Cars and Computers. I hope to someday combine the two.  
+Hi, I’m Mike, I like Cars and Computers. I hope to someday combine the two.  
 I’m interested in Java (Springboot), Python (Django, Machine Learning)   
 I’m currently a Senior at Grand Canyon University   
 
