@@ -4,6 +4,7 @@ I’m currently a Senior at Grand Canyon University
 
 ___
 [Please check out my resume](https://github.com/MikeUchmanowicz/Resume/)  
+[Please check out my LinkedIn](https://www.linkedin.com/in/michal-uchmanowicz/)   
 [Please check out my projects](https://github.com/MikeUchmanowicz/Start-Here)
 ___
 Email: Mike.Uchmanowicz@gmail.com  
