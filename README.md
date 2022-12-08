@@ -3,7 +3,7 @@ I’m interested in Java (Springboot), Python (Django, Machine Learning)
 I’m currently a Senior at Grand Canyon University   
 
 ___
-[Please see my resume](https://github.com/MikeUchmanowicz/Resume/)  
+[Please check out my resume](https://github.com/MikeUchmanowicz/Resume/)  
 [Please check out my projects](https://github.com/MikeUchmanowicz/Start)
 ___
 Email: Mike.Uchmanowicz@gmail.com  
