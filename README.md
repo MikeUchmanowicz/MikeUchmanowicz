@@ -3,7 +3,7 @@ I’m interested in Java (Springboot), Python (Django, Machine Learning), and re
 I’m currently a Senior at Grand Canyon University and will graduate in late April, 2023.
 
 ___
-[Please check out my projects](https://github.com/MikeUchmanowicz/portfolio)  
+[Please check out my portfolio](https://github.com/MikeUchmanowicz/portfolio)  
 [Please check out my resume](https://github.com/MikeUchmanowicz/Resume/)  
 [Please check out my LinkedIn](https://www.linkedin.com/in/michal-uchmanowicz/) 
 ___
