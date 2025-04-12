@@ -1,6 +1,6 @@
 Hi, I’m Mike, I like Cars and Computers. I hope to someday combine the two.  
-I’m interested in Java (Springboot), Python (Django, Machine Learning), and recently, JS: Angular.   
-I’m currently a Senior at Grand Canyon University and will graduate in late April, 2023.
+I’m interested in  Python (FastAPI, Django, Machine Learning), Java (Springboot), and recently, JS: Angular.   
+I hold a BA in Software Development Granted to me by GCU-- high honors :)
 
 ___
 [Please check out my portfolio](https://github.com/MikeUchmanowicz/portfolio)  
