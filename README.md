@@ -1,6 +1,13 @@
-Hi, I’m Mike, I like Cars and Computers. I hope to someday combine the two.  
-I’m interested in  Python (FastAPI, Django, Machine Learning), Java (Springboot), and recently, JS: Angular.   
-I hold a BA in Software Development Granted to me by GCU-- high honors :)
+I'm Michal Uchmanowicz, a software developer with a strong foundation in full-stack development, cloud infrastructure, and scalable internal tooling.
+I earned my B.S. in Software Development from Grand Canyon University with a 3.97 GPA and a passion for building efficient, reliable systems — from Dockerized webapps on AWS to embedded systems experiments.
+Currently, I serve as one of two developers at Hoffenmer Inc., where I architect and maintain a comprehensive internal platform for managing DOT compliance workflows, client communication, and automation.
+My stacks generally include Python, Java, JavaScript, FastAPI, Django, Spring Boot, and AWS — and I'm always eager to tackle complex, real-world challenges.
+
+Outside of work, I run a car customization side business at <a href="https://endlesscustoms.co" target="_blank">Endless Customs Co</a>, where I wrench on my ~650hp single-turbo E93 BMW 335i powered by a Precision 6266 and E85.
+I'm mechanically savvy, detail-obsessed, and hands-on — whether it's software or hardware.
+I also enjoy basketball, reggae music, and diving into topics like machine learning and embedded tech. 
+Recently i've purchased an insta360 x3 and have been diving into the world of 360 video production. 
+
 
 ___
 [Please check out my portfolio](https://github.com/MikeUchmanowicz/portfolio)  
