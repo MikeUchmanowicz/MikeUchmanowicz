@@ -1,7 +1,7 @@
 I'm Michal Uchmanowicz, a software developer with a strong foundation in full-stack development, cloud infrastructure, and scalable internal tooling.
 I earned my B.S. in Software Development from Grand Canyon University with a 3.97 GPA and a passion for building efficient, reliable systems — from Dockerized webapps on AWS to embedded systems experiments.
 Currently, I serve as one of two developers at Hoffenmer Inc., where I architect and maintain a comprehensive internal platform for managing DOT compliance workflows, client communication, and automation.
-My stacks generally include Python, Java, JavaScript, FastAPI, Django, Spring Boot, and AWS — and I'm always eager to tackle complex, real-world challenges.
+My stacks generally include Python, FastAPI, Django, Java, Spring Boot, JavaScript, and AWS — and I'm always eager to tackle complex, real-world challenges.
 
 Outside of work, I run a car customization side business at <a href="https://endlesscustoms.co" target="_blank">Endless Customs Co</a>, where I wrench on my ~650hp single-turbo E93 BMW 335i powered by a Precision 6266 and E85.
 I'm mechanically savvy, detail-obsessed, and hands-on — whether it's software or hardware.
